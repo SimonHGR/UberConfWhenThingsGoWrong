@@ -1,0 +1,3 @@
+This is file c.txt
+it has three lines
+count 'em, three!
